@@ -153,3 +153,6 @@ class StrangerThings extends React.Component {
 }
 
 export default StrangerThings;
+
+
+// configuradas as variaveis de ambiente no remoto
