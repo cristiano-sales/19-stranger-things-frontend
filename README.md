@@ -1,16 +1,7 @@
-# 🚧 README em construção 🚧
+# Back-end
 
-<!-- Olá, Tryber!
+# Julho de 2022
 
-Esse é apenas um arquivo inicial para o README do seu projeto.
+## Neste projeto basicamente foi configurado um ambiente para realizar deploy da aplicação utilizando heroku, com enfase para o Dockerfile, o project.yml, o heroku.yml
 
-É essencial que você preencha esse documento por conta própria, ok?
-
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-
-⚠️ IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
-
--->
+# Ademais diretórios e arquivos foram providos pela Trybe
